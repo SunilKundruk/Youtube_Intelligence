@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+.env
+
+# Streamlit
+.streamlit/
+
+# MLflow & Models
+mlruns/
+src/models/*.joblib
+src/models/*.pkl
+
+# OS
+.DS_Store
+Thumbs.db

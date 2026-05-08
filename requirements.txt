@@ -1,0 +1,15 @@
+streamlit
+fastapi
+uvicorn
+prophet
+scikit-learn
+pandas
+numpy
+plotly
+openai
+google-generativeai
+joblib
+langchain
+mlflow
+python-multipart
+python-dotenv
